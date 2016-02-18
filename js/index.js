@@ -22,7 +22,9 @@ app.controller("myController", ['$scope', function($scope) {
     wr: "Andrew Hawkins"
   }, {
     wr: "Gary Barnidge"
-  }]
+  },{
+    qb:" Austin Davis"
+    }]
 
   function getTimeRemaining() {
     var timeRemaining = "",
